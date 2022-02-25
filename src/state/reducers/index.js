@@ -5,4 +5,4 @@ const reducers = combineReducers({
     amount :amountreducers
 })
 
-export default reducers;
+export default reducers;     
